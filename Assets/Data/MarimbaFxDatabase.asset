@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a3d680aadb4bb643bf05378a15e7ea1, type: 3}
+  m_Name: MarimbaFxDatabase
+  m_EditorClassIdentifier: 
+  m_elements:
+  - clip: {fileID: 8300000, guid: 9e141d47564627442aaa01999333a892, type: 3}
+  - clip: {fileID: 8300000, guid: 9124c5c044ad4db40888fad3d5a49a31, type: 3}
+  - clip: {fileID: 8300000, guid: 6d420e2f9ddad60479fd1321ed98aecc, type: 3}
+  - clip: {fileID: 8300000, guid: 90662205f1da0b8458467423e85b696b, type: 3}
+  - clip: {fileID: 8300000, guid: 6ce109c03c4e37d41921e1c552253077, type: 3}
+  - clip: {fileID: 8300000, guid: 70969f0fb2c78b144a57d684743f3543, type: 3}
+  - clip: {fileID: 8300000, guid: d9eccd5fbdecdfc469fffd3a638f8548, type: 3}
+  - clip: {fileID: 8300000, guid: 006cc56e6a9a728478441929879958e2, type: 3}

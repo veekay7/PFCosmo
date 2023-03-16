@@ -1,0 +1,2135 @@
+fileFormatVersion: 2
+guid: 139c74dbd8ecc774c9cb4f70f438511f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: T_UI_Icons_White2x_02_0
+  - first:
+      213: 21300002
+    second: T_UI_Icons_White2x_02_1
+  - first:
+      213: 21300004
+    second: T_UI_Icons_White2x_02_2
+  - first:
+      213: 21300006
+    second: T_UI_Icons_White2x_02_3
+  - first:
+      213: 21300008
+    second: T_UI_Icons_White2x_02_4
+  - first:
+      213: 21300010
+    second: T_UI_Icons_White2x_02_5
+  - first:
+      213: 21300012
+    second: T_UI_Icons_White2x_02_6
+  - first:
+      213: 21300014
+    second: T_UI_Icons_White2x_02_7
+  - first:
+      213: 21300016
+    second: T_UI_Icons_White2x_02_8
+  - first:
+      213: 21300018
+    second: T_UI_Icons_White2x_02_11
+  - first:
+      213: 21300020
+    second: T_UI_Icons_White2x_02_13
+  - first:
+      213: 21300022
+    second: T_UI_Icons_White2x_02_14
+  - first:
+      213: 21300024
+    second: T_UI_Icons_White2x_02_15
+  - first:
+      213: 21300026
+    second: T_UI_Icons_White2x_02_17
+  - first:
+      213: 21300028
+    second: T_UI_Icons_White2x_02_18
+  - first:
+      213: 21300030
+    second: T_UI_Icons_White2x_02_19
+  - first:
+      213: 21300032
+    second: T_UI_Icons_White2x_02_20
+  - first:
+      213: 21300034
+    second: T_UI_Icons_White2x_02_23
+  - first:
+      213: 21300036
+    second: T_UI_Icons_White2x_02_25
+  - first:
+      213: 21300038
+    second: T_UI_Icons_White2x_02_26
+  - first:
+      213: 21300040
+    second: T_UI_Icons_White2x_02_27
+  - first:
+      213: 21300042
+    second: T_UI_Icons_White2x_02_28
+  - first:
+      213: 21300044
+    second: T_UI_Icons_White2x_02_29
+  - first:
+      213: 21300046
+    second: T_UI_Icons_White2x_02_30
+  - first:
+      213: 21300048
+    second: T_UI_Icons_White2x_02_31
+  - first:
+      213: 21300050
+    second: T_UI_Icons_White2x_02_33
+  - first:
+      213: 21300052
+    second: T_UI_Icons_White2x_02_34
+  - first:
+      213: 21300054
+    second: T_UI_Icons_White2x_02_35
+  - first:
+      213: 21300056
+    second: T_UI_Icons_White2x_02_36
+  - first:
+      213: 21300058
+    second: T_UI_Icons_White2x_02_37
+  - first:
+      213: 21300060
+    second: T_UI_Icons_White2x_02_38
+  - first:
+      213: 21300062
+    second: T_UI_Icons_White2x_02_39
+  - first:
+      213: 21300064
+    second: T_UI_Icons_White2x_02_40
+  - first:
+      213: 21300066
+    second: T_UI_Icons_White2x_02_41
+  - first:
+      213: 21300068
+    second: T_UI_Icons_White2x_02_42
+  - first:
+      213: 21300070
+    second: T_UI_Icons_White2x_02_43
+  - first:
+      213: 21300072
+    second: T_UI_Icons_White2x_02_44
+  - first:
+      213: 21300074
+    second: T_UI_Icons_White2x_02_45
+  - first:
+      213: 21300076
+    second: T_UI_Icons_White2x_02_46
+  - first:
+      213: 21300078
+    second: T_UI_Icons_White2x_02_47
+  - first:
+      213: 21300080
+    second: T_UI_Icons_White2x_02_48
+  - first:
+      213: 21300082
+    second: T_UI_Icons_White2x_02_49
+  - first:
+      213: 21300084
+    second: T_UI_Icons_White2x_02_50
+  - first:
+      213: 21300086
+    second: T_UI_Icons_White2x_02_51
+  - first:
+      213: 21300088
+    second: T_UI_Icons_White2x_02_52
+  - first:
+      213: 21300090
+    second: T_UI_Icons_White2x_02_53
+  - first:
+      213: 21300092
+    second: T_UI_Icons_White2x_02_54
+  - first:
+      213: 21300094
+    second: T_UI_Icons_White2x_02_55
+  - first:
+      213: 21300096
+    second: T_UI_Icons_White2x_02_56
+  - first:
+      213: 21300098
+    second: T_UI_Icons_White2x_02_58
+  - first:
+      213: 21300100
+    second: T_UI_Icons_White2x_02_59
+  - first:
+      213: 21300102
+    second: T_UI_Icons_White2x_02_60
+  - first:
+      213: 21300104
+    second: T_UI_Icons_White2x_02_61
+  - first:
+      213: 21300106
+    second: T_UI_Icons_White2x_02_62
+  - first:
+      213: 21300108
+    second: T_UI_Icons_White2x_02_63
+  - first:
+      213: 21300110
+    second: T_UI_Icons_White2x_02_64
+  - first:
+      213: 21300112
+    second: T_UI_Icons_White2x_02_65
+  - first:
+      213: 21300114
+    second: T_UI_Icons_White2x_02_66
+  - first:
+      213: 21300116
+    second: T_UI_Icons_White2x_02_67
+  - first:
+      213: 21300118
+    second: T_UI_Icons_White2x_02_68
+  - first:
+      213: 21300120
+    second: T_UI_Icons_White2x_02_69
+  - first:
+      213: 21300122
+    second: T_UI_Icons_White2x_02_70
+  - first:
+      213: 21300124
+    second: T_UI_Icons_White2x_02_71
+  - first:
+      213: 21300126
+    second: T_UI_Icons_White2x_02_72
+  - first:
+      213: 21300128
+    second: T_UI_Icons_White2x_02_76
+  - first:
+      213: 21300130
+    second: T_UI_Icons_White2x_02_77
+  - first:
+      213: 21300132
+    second: T_UI_Icons_White2x_02_78
+  - first:
+      213: 21300134
+    second: T_UI_Icons_White2x_02_79
+  - first:
+      213: 21300136
+    second: T_UI_Icons_White2x_02_80
+  - first:
+      213: 21300138
+    second: T_UI_Icons_White2x_02_81
+  - first:
+      213: 21300140
+    second: T_UI_Icons_White2x_02_82
+  - first:
+      213: 21300142
+    second: T_UI_Icons_White2x_02_86
+  - first:
+      213: 21300144
+    second: T_UI_Icons_White2x_02_87
+  - first:
+      213: 21300146
+    second: T_UI_Icons_White2x_02_91
+  - first:
+      213: 21300148
+    second: T_UI_Icons_White2x_02_92
+  - first:
+      213: 21300150
+    second: T_UI_Icons_White2x_02_93
+  - first:
+      213: 21300152
+    second: T_UI_Icons_White2x_02_94
+  - first:
+      213: 21300154
+    second: T_UI_Icons_White2x_02_95
+  - first:
+      213: 21300156
+    second: T_UI_Icons_White2x_02_96
+  - first:
+      213: 21300158
+    second: T_UI_Icons_White2x_02_97
+  - first:
+      213: 21300160
+    second: T_UI_Icons_White2x_02_98
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 932
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493870c43af65ee43a7c592437d8929b
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 938
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8560b6e73884bd4b90307a0e5acda59
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 936
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c612f1288544e94cbdbcb8e2c7c17dd
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 938
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f1fbdb76d00c7488cf7379c774e74e
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_4
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 944
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64efbc2bcdee644ea4584f27fa8b6b3
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 970
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1b265246fd37b4aaf4949557f0a9bb
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_6
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 935
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7db4e8629287e4d8d4a614861cce1e
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_7
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 936
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cc91f15eda045408c232b765b337d7
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_8
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 950
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54e923597694c74786992dc3085a361
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 829
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e90e00df5801d48b00e1f915a5fc8c
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_13
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 836
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3964a10ca1e5204cb429fc30695f68c
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_14
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 836
+        width: 92
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4da82367ecf3347826191ff67d4d30
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 839
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa373f389e07c8a4c924f5c8a0b6a05c
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_17
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 829
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c0d9c9172f56c4aae126e9dda4eb19
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_18
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 861
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9559d3292521027479a76ce8081a2806
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_19
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 829
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4436c574f7d4641a5ccacf8ccfaf78
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_20
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 836
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf1bb1067924134da6847bfdc165ae0
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 729
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dfcacf376a88145a90b0f2afdf8f82
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_25
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 736
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a807f88eb5391e14f857935499bb5c3e
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_26
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 736
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb0f10b1dcaf2c48b19dd7ae85266c4
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_27
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 738
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad5e516a8ec49b48aa2c52214f43649
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_28
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 729
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d38feb459b1af4cb96a7cb1ee0123f
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_29
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 761
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50022cf5aef6454f99d89d9051a80b3
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_30
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 750
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12ca1c10886f5748804ec6b7d5e3f1f
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_31
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 736
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f343bd0686139b545bed1a61ee720f48
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 650
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f89db9212e13694fadf47b7c65b9dec
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_34
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 638
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d92406b71138a4b8e84eb9e27446c1
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_35
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 640
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcd3976acde0fe4e8304ca54e8e8188
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_36
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 646
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7123efd5060bf9488f3d21fde2a84ab
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_37
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 635
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154fcee9e480256448aa3db66b4e5279
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_38
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 629
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e06d5e317388c141b43f3a2ad5d3b39
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_39
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 635
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db70852add88281498d43f94a02ad80f
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_40
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 636
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38d5d6c11f4af44aab018a8fb0308b9
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_41
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095a63be6ad41354a833e51ce1ed9c8e
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_42
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 544
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a583f02c56adc6a4296781f8daaa481c
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 538
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b5b291dd534e74ab13c221bafcb5b6
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_44
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 562
+        width: 84
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d018f18230eb64a4e9ffa7a1cb9c391e
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_45
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 535
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b16b28661261a4aa6a6aac30ae2899
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_46
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 550
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd521a92f4a7fbf4daa937e8d31db7d0
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_47
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 535
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312e517a518938d4cb078ffa1bf10826
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_48
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 536
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca595988fa6361a4f8a3abe3e4bc7fbb
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_49
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 444
+        width: 82
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e64e93919acb3e4296a21d0256df93f
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_50
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 436
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff121fe0d5d565489528cd7a181b3d7
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_51
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 442
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac0e2c913ec0864c80a1acb7f38d5c6
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_52
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 435
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642482c259ac6964ba0d55434c479e69
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_53
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 429
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9c09d6207fefa40a8369ff8e61c61e
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_54
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 449
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38b9598ef9a7ef4686d85cb7d14df7c
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_55
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 435
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6aa72854a2e6b4496fe4dabce6becd
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_56
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 434
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fb4402409c2024ea7a5fafd834cbf4
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_58
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 344
+        width: 82
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d34ab58cb00924fa73c7ee008ec8be
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_59
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 336
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fc7ed5fa763404f892206ff83e6e44
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_60
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 338
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0ba544cbbd69943a9df7495953e55c
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_61
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 362
+        width: 84
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d33803c94c1024bac7efafabb54482
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_62
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 329
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e70022c0fee194aaaa1f5c4d30b459
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_63
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 349
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e9572e6888618418dbd2ab817e2a7f
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_64
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 350
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314c1d78488ab97458170962406d8608
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_65
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 344
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731160cdd23d1ad4a98846b4c0521fb6
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_66
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 244
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3e44017d6fdab4391d9f0a58f9314a
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_67
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 236
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63c5728901472548b021893ddbf90f3
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_68
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 238
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d5a086220d44046b604b680ac243ca
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_69
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 235
+        width: 83
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481a6ad60d8af5241999113495467773
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_70
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 235
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d563c9e628d844e85e5228c38778ab
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_71
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 230
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe934882b8986542b0405b2a4137a7b
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_72
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 229
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85344033a6126b4f93eb3a8f6b711ff
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_76
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 229
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20538acad9211a94ab0872a0b534eb2c
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_77
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 132
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1287b724f5647409fb1aa85ebf554e
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_78
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 136
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba8262e3bdbd8c429f359b23ab78d3b
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_79
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 142
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b415e967cc78b45a30d74d80fc22b4
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_80
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 150
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca462a8d523e2144a9c9a7beae386de
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_81
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 135
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e10c1864a668984e81fe39bd41b4c42
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_82
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 170
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bb8c551275c93499c4140fe3e8bf4c
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_86
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 142
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bb0e95c235e2f47b6ac0cb88b86210
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_87
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 129
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dbfb57387e61e4c8ee5530f2ff4fe6
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_91
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 36
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d253f5589fe754aaea5feed8a8bf14
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_92
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 38
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5bd890d8dc1764c8a172c0269e299d
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_93
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 35
+        width: 83
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f07aaae062afe04fbae0a8a81451139
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_94
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 29
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ea3632ee4675d49b8d373d0e8cf90e
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_95
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 35
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63201f17a53289942b9b1e7e642f6c3b
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_96
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 36
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3e3523b562a9f4f9f96f7358e826f2
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_97
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 50
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c780f8cf577af040a8d1ab355eb2339
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_UI_Icons_White2x_02_98
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 34
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b909a30de72a841aaf42a66b209499
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6e1068cb6da35164eadeb3a2910661a2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      T_UI_Icons_White2x_02_33: 21300050
+      T_UI_Icons_White2x_02_4: 21300008
+      T_UI_Icons_White2x_02_40: 21300064
+      T_UI_Icons_White2x_02_41: 21300066
+      T_UI_Icons_White2x_02_52: 21300088
+      T_UI_Icons_White2x_02_19: 21300030
+      T_UI_Icons_White2x_02_2: 21300004
+      T_UI_Icons_White2x_02_27: 21300040
+      T_UI_Icons_White2x_02_23: 21300034
+      T_UI_Icons_White2x_02_29: 21300044
+      T_UI_Icons_White2x_02_92: 21300148
+      T_UI_Icons_White2x_02_20: 21300032
+      T_UI_Icons_White2x_02_50: 21300084
+      T_UI_Icons_White2x_02_98: 21300160
+      T_UI_Icons_White2x_02_0: 21300000
+      T_UI_Icons_White2x_02_79: 21300134
+      T_UI_Icons_White2x_02_18: 21300028
+      T_UI_Icons_White2x_02_66: 21300114
+      T_UI_Icons_White2x_02_86: 21300142
+      T_UI_Icons_White2x_02_91: 21300146
+      T_UI_Icons_White2x_02_94: 21300152
+      T_UI_Icons_White2x_02_49: 21300082
+      T_UI_Icons_White2x_02_1: 21300002
+      T_UI_Icons_White2x_02_55: 21300094
+      T_UI_Icons_White2x_02_61: 21300104
+      T_UI_Icons_White2x_02_34: 21300052
+      T_UI_Icons_White2x_02_36: 21300056
+      T_UI_Icons_White2x_02_38: 21300060
+      T_UI_Icons_White2x_02_44: 21300072
+      T_UI_Icons_White2x_02_47: 21300078
+      T_UI_Icons_White2x_02_7: 21300014
+      T_UI_Icons_White2x_02_13: 21300020
+      T_UI_Icons_White2x_02_56: 21300096
+      T_UI_Icons_White2x_02_39: 21300062
+      T_UI_Icons_White2x_02_15: 21300024
+      T_UI_Icons_White2x_02_69: 21300120
+      T_UI_Icons_White2x_02_65: 21300112
+      T_UI_Icons_White2x_02_17: 21300026
+      T_UI_Icons_White2x_02_87: 21300144
+      T_UI_Icons_White2x_02_68: 21300118
+      T_UI_Icons_White2x_02_45: 21300074
+      T_UI_Icons_White2x_02_25: 21300036
+      T_UI_Icons_White2x_02_37: 21300058
+      T_UI_Icons_White2x_02_42: 21300068
+      T_UI_Icons_White2x_02_71: 21300124
+      T_UI_Icons_White2x_02_59: 21300100
+      T_UI_Icons_White2x_02_51: 21300086
+      T_UI_Icons_White2x_02_54: 21300092
+      T_UI_Icons_White2x_02_6: 21300012
+      T_UI_Icons_White2x_02_81: 21300138
+      T_UI_Icons_White2x_02_31: 21300048
+      T_UI_Icons_White2x_02_35: 21300054
+      T_UI_Icons_White2x_02_78: 21300132
+      T_UI_Icons_White2x_02_77: 21300130
+      T_UI_Icons_White2x_02_3: 21300006
+      T_UI_Icons_White2x_02_5: 21300010
+      T_UI_Icons_White2x_02_58: 21300098
+      T_UI_Icons_White2x_02_62: 21300106
+      T_UI_Icons_White2x_02_80: 21300136
+      T_UI_Icons_White2x_02_14: 21300022
+      T_UI_Icons_White2x_02_67: 21300116
+      T_UI_Icons_White2x_02_48: 21300080
+      T_UI_Icons_White2x_02_53: 21300090
+      T_UI_Icons_White2x_02_72: 21300126
+      T_UI_Icons_White2x_02_95: 21300154
+      T_UI_Icons_White2x_02_64: 21300110
+      T_UI_Icons_White2x_02_60: 21300102
+      T_UI_Icons_White2x_02_76: 21300128
+      T_UI_Icons_White2x_02_30: 21300046
+      T_UI_Icons_White2x_02_46: 21300076
+      T_UI_Icons_White2x_02_82: 21300140
+      T_UI_Icons_White2x_02_63: 21300108
+      T_UI_Icons_White2x_02_11: 21300018
+      T_UI_Icons_White2x_02_70: 21300122
+      T_UI_Icons_White2x_02_93: 21300150
+      T_UI_Icons_White2x_02_8: 21300016
+      T_UI_Icons_White2x_02_28: 21300042
+      T_UI_Icons_White2x_02_97: 21300158
+      T_UI_Icons_White2x_02_43: 21300070
+      T_UI_Icons_White2x_02_26: 21300038
+      T_UI_Icons_White2x_02_96: 21300156
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

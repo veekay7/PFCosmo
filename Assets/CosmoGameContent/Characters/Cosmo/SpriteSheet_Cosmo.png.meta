@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 8a464d6d915458948a1c644b21763e7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SpritePart_Cosmo_HairBack
+  - first:
+      213: 21300002
+    second: SpritePart_Cosmo_PigtailR
+  - first:
+      213: 21300004
+    second: SpritePart_Cosmo_PigtailL
+  - first:
+      213: 21300006
+    second: SpritePart_Cosmo_HeadDefault
+  - first:
+      213: 21300008
+    second: SpritePart_Cosmo_HeadHappy
+  - first:
+      213: 21300010
+    second: SpritePart_Cosmo_Neck
+  - first:
+      213: 21300012
+    second: SpritePart_Cosmo_ArmR
+  - first:
+      213: 21300014
+    second: SpritePart_Cosmo_ArmL
+  - first:
+      213: 21300016
+    second: SpritePart_Cosmo_Body
+  - first:
+      213: 21300018
+    second: SpritePart_Cosmo_Ref
+  - first:
+      213: 21300020
+    second: SpritePart_Cosmo_Robe_ShoulderR
+  - first:
+      213: 21300022
+    second: SpritePart_Cosmo_Robe_ShoulderL
+  - first:
+      213: 21300024
+    second: SpritePart_Cosmo_LegR
+  - first:
+      213: 21300026
+    second: SpritePart_Cosmo_LegL
+  - first:
+      213: 21300028
+    second: SpritePart_Cosmo_Robe_BackR
+  - first:
+      213: 21300030
+    second: SpritePart_Cosmo_Robe_BackL
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpritePart_Cosmo_HairBack
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 853
+        width: 248
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7175202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef8df24c34563c4bb769d1a04463421
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePart_Cosmo_PigtailR
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 830
+        width: 133
+        height: 232
+      alignment: 9
+      pivot: {x: 0.7878464, y: 0.89191145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fda2c4ad2ca3b469028f5b5dd327d1
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePart_Cosmo_PigtailL
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 853
+        width: 95
+        height: 203
+      alignment: 9
+      pivot: {x: 0.24813426, y: 0.877178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5698f64ed78aa44bbeafe8242fd476
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePart_Cosmo_HeadDefault
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 762
+        width: 341
+        height: 367
+      alignment: 9
+      pivot: {x: 0.55, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b3cf6e133451c4087000a86398cd82
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePart_Cosmo_HeadHappy
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 762
+        width: 341
+        height: 367
+      alignment: 9
+      pivot: {x: 0.55, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378a9b9e547a2a04d8b0b2bef44ffcd9
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePart_Cosmo_Neck
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 766
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105d12b7178a24a45b3877a694546a76
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePart_Cosmo_ArmR
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 602
+        width: 159
+        height: 190
+      alignment: 9
+      pivot: {x: 0.7859228, y: 0.8903921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d979c21b42db8242b5094628ef45880
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePart_Cosmo_ArmL
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 634
+        width: 137
+        height: 178
+      alignment: 9
+      pivot: {x: 0.1506967, y: 0.78228796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd51201315f8064a84e7b400d481fef
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePart_Cosmo_Body
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 439
+        width: 282
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1605421338f494da08b95cc3c9a05a
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePart_Cosmo_Ref
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 6
+        width: 412
+        height: 730
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33c4394a17ccd9498c904bf8c11aa09
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePart_Cosmo_Robe_ShoulderR
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 463
+        width: 115
+        height: 102
+      alignment: 9
+      pivot: {x: 0.708063, y: 0.7345808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098856e6bca0be744b4777ff9c5f103a
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePart_Cosmo_Robe_ShoulderL
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 463
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.26937535, y: 0.7278791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65363fb9d8d73e4a89f2cc2e2aae762
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePart_Cosmo_LegR
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 170
+        width: 92
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5780235, y: 0.8662335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3676d731b1bd46d4fa32f064d6f98e8c
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePart_Cosmo_LegL
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 170
+        width: 84
+        height: 205
+      alignment: 9
+      pivot: {x: 0.3860601, y: 0.86182684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed0f5ac7f004874da9e5fcf511cb234
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePart_Cosmo_Robe_BackR
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 36
+        width: 174
+        height: 345
+      alignment: 9
+      pivot: {x: 0.8575331, y: 0.87451375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c56064a6b5b491478bb3c48dcbb86c4
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePart_Cosmo_Robe_BackL
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 38
+        width: 163
+        height: 357
+      alignment: 9
+      pivot: {x: 0.11833818, y: 0.88203186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7e8150cb6ce5f4cac565093ccf0c76
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2627797f04d0eac4bbbdbda0bcfda8ee
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpritePart_Cosmo_Robe_BackL: 21300030
+      SpritePart_Cosmo_HeadDefault: 21300006
+      SpritePart_Cosmo_Robe_ShoulderL: 21300022
+      SpritePart_Cosmo_ArmL: 21300014
+      SpritePart_Cosmo_Ref: 21300018
+      SpritePart_Cosmo_PigtailR: 21300002
+      SpritePart_Cosmo_PigtailL: 21300004
+      SpritePart_Cosmo_HairBack: 21300000
+      SpritePart_Cosmo_Robe_BackR: 21300028
+      SpritePart_Cosmo_ArmR: 21300012
+      SpritePart_Cosmo_Body: 21300016
+      SpritePart_Cosmo_LegL: 21300026
+      SpritePart_Cosmo_LegR: 21300024
+      SpritePart_Cosmo_HeadHappy: 21300008
+      SpritePart_Cosmo_Robe_ShoulderR: 21300020
+      SpritePart_Cosmo_Neck: 21300010
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
