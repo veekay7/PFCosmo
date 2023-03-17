@@ -9,7 +9,7 @@ The game is now deployed at Nanyang Technological University's SCSE computer sci
 - 2019, V.T. Kannappan et al. “La Petite Fee Cosmo: Learning Data Structures Through Game-based Learning”, International Conference on Cyberworlds (CW), Kyoto, Japan.
 - 2019, H.E. Lye, J.Y.J. Hong and V.T. Kannappan, “The Art of La Petite Fee Cosmo”, International Conference on Cyberworlds (CW), Kyoto, Japan.
 
-Screenshots for the game can be seen [here](#Screenshots)
+Screenshots for the game can be seen [here](#Screenshots).
 
 ## Synopsis
 ### Story
