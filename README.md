@@ -38,11 +38,11 @@ The only daughter of the ruler of fairies. She is a jovial but mischievous fairy
 
 ![Screenshot_4](https://user-images.githubusercontent.com/9075833/225990009-02cd247f-5b7c-4d55-8fc6-8d3314f5539d.png)
 
-![main menu](https://user-images.githubusercontent.com/9075833/225989721-87b2208c-7ab8-4486-a473-1382e6cc0b62.png)
-
 ![stage02-02](https://user-images.githubusercontent.com/9075833/225990020-456b5c70-fed7-4697-8c6a-53d792d46427.png)
 
 ![stage03](https://user-images.githubusercontent.com/9075833/225990026-4623ccdc-a96d-4680-ab61-a903e302713a.png)
+
+![main menu](https://user-images.githubusercontent.com/9075833/225989721-87b2208c-7ab8-4486-a473-1382e6cc0b62.png)
 
 ## My Role
 - Game Design
