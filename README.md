@@ -56,10 +56,7 @@ The only daughter of the ruler of fairies. She is a jovial but mischievous fairy
 - Game manual design
 
 ## Reference
-Owen Noel Newton Fernando
-
-Nanyang Technological University, Singapore
-
-Co-Supervisor for the Productive Failure Project
-
+**Owen Noel Newton Fernando**
+Nanyang Technological University, Singapore<br />
+Co-Supervisor for the Productive Failure Project<br />
 Contact: ofernando@ntu.edu.sg
