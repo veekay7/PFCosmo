@@ -57,6 +57,9 @@ The only daughter of the ruler of fairies. She is a jovial but mischievous fairy
 
 ## Reference
 Owen Noel Newton Fernando
+
 Nanyang Technological University, Singapore
+
 Co-Supervisor for the Productive Failure Project
+
 Contact: ofernando@ntu.edu.sg
