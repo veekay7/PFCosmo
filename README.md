@@ -1,6 +1,6 @@
 # La Petite Fee Cosmo - 小さな妖精コスモ
 
-La Petite Fee Cosmo is a fantasy-themed, educational puzzle game aimed at helping computer science students understand the programming concept of Linked Lists. I developed the game for Nanyang Technological University's School of Computer Science and Engineering (SCSE). The game was developed as part of the Productive Failure project.
+La Petite Fee Cosmo is a fantasy-themed, educational puzzle game aimed at helping computer science students understand the programming concept of Linked Lists. I developed the game for Nanyang Technological University's School of Computer Science and Engineering (SCSE). The game was developed in a small team of 3 people with 1 lead programmer, 1 assistant programmer and 1 artist. This project was developed as part of the Productive Failure project.
 
 The game was developed to help students who are new to computer science subjects better understand data structures. Specifically, the students had trouble understanding the concept of linked lists. The game's level design is inspired by the past-year data structures test questions, and this helps students better visualise how linked lists works.
 
@@ -8,6 +8,8 @@ The game is now deployed at Nanyang Technological University's SCSE computer sci
 
 - 2019, V.T. Kannappan et al. “La Petite Fee Cosmo: Learning Data Structures Through Game-based Learning”, International Conference on Cyberworlds (CW), Kyoto, Japan.
 - 2019, H.E. Lye, J.Y.J. Hong and V.T. Kannappan, “The Art of La Petite Fee Cosmo”, International Conference on Cyberworlds (CW), Kyoto, Japan.
+
+Screenshots for the game can be seen [here](#Screenshots)
 
 ## Synopsis
 ### Story
@@ -19,8 +21,6 @@ In a land far far away, up in the clear skies over the Highlands of Skye, there 
 The only daughter of the ruler of fairies. She is a jovial but mischievous fairy and is always being reprimanded by her father. However, she is smart and good with magic which has helped her in many sticky situations.
 
 ## Gameplay
-
-
 - Help Cosmo return to her original world by collecting Power Stones from various locations in the dilapidated version of her world. Power Stones appear when a challenge is complete. Help Cosmo build a bridge and help her collect these Power Stones.
 
 - The puzzle element of the game is based on the Linked List programming concept.
@@ -45,13 +45,14 @@ The only daughter of the ruler of fairies. She is a jovial but mischievous fairy
 ![main menu](https://user-images.githubusercontent.com/9075833/225989721-87b2208c-7ab8-4486-a473-1382e6cc0b62.png)
 
 ## My Role
-- Game Design
-- Planning
+- Game design
+- Game Planning
 - Game software architecture
 - Game programming
+- Project management (managed a team of 3)
+- Communication with stakeholders
 - Art direction
 - Level design
-- Communication with stakeholders
 - Game manual design
 
 ## Reference
