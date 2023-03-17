@@ -27,7 +27,7 @@ The only daughter of the ruler of fairies. She is a jovial but mischievous fairy
 
 ## Gameplay
 - Help Cosmo return to her original world by collecting Power Stones from various locations in the dilapidated version of her world. Power Stones appear when a challenge is complete. Help Cosmo build a bridge and help her collect these Power Stones.
-- 
+
 - The puzzle element of the game is based on the Linked List programming concept.
 
 - The bridge Cosmo needs to build is build of a series of terrain pieces. Each piece contains a number. The pieces must be arranged in the right order for the bridge to fully take shape. Getting the right results will make Cosmo gleefully cross the bridge and reach to the other side.
