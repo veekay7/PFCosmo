@@ -46,7 +46,7 @@ The only daughter of the ruler of fairies. She is a jovial but mischievous fairy
 
 ## My Role
 - Game design
-- Game Planning
+- Game planning
 - Game software architecture
 - Game programming
 - Project management (managed a team of 3)
